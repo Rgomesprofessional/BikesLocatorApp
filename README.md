@@ -1,10 +1,12 @@
 # Bikes Locator App
 By Romulo Gomes - 15640
+
 Available on Google Play Store:  
 https://play.google.com/store/apps/details?id=com.rgomesprofessional.rgome.bikeslocatorapp 
  
 The App basically consists of selecting a city in the list in order to see where the Bike Stations are located. 
 The first Button "Stations" shows just the list of stations from the selected city with some extra info and when the user clicks on it the weather from the current location is displayed. 
+
 The second Button "Map" shows the exact location from the stations and also from the user. The map is centralized according to the user position. When clicking on the station the user has the option to see the distance between each other and the best way to arrive there.   
 The third button "About" shows a short description from the App and also the name and links from who created. 
  
