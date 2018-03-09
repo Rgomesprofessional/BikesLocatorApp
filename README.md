@@ -1,5 +1,5 @@
 # BikesLocatorApp
-By Romulo Gomes - 15640 
+By Romulo Gomes - 15640
 Available on Google Play Store:  
 https://play.google.com/store/apps/details?id=com.rgomesprofessional.rgome.bikeslocatorapp 
  
