@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Created by Romulo Gomes - 15640 - on 07/03/2018.
+    Linkedin: https://www.linkedin.com/in/rgomesprofessional
+    Web Site: http://rgomes.16mb.com
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.rgome.bikeslocatorapp">
 
